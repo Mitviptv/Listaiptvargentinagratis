@@ -612,3 +612,105 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0284
 
 #EXTINF:-1 tvg-name="Argentina" tvg-logo="http://www.radiosargentina.com.ar/png/VICALCHA.png" group-title="TU Tucuman",Calchaqui TCC 12 - 21.1TV - Tafi del Valle - TU Tucuman
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0285
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Canal Parlamento - CTV - Madrid - MD Madrid TDT
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0001
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",13tv - 26TDT - Madrid - MD Madrid TDT
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0008
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",TVE 24h - 33TDT - Madrid - MD Madrid TDT
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0011
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",La Otra - 38TDT - Madrid - MD Madrid TDT
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0015
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Telemadrid - 38TDT - Madrid - MD Madrid TDT
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0016
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Onda Cádiz - 54TDT - Cádiz - AN Cádiz
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVES0021
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Condavisión - 46TDT - Almonte - AN Huelva
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0029
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Canal Torrevisión 11 - 51TDT - A de la Torre - AN Málaga
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVES0035
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Onda Azul - 58TDT - Málaga - AN Málaga
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0040
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Lebrija TV - 21TDT - Lebrija - AN Sevilla
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0045
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Lancelot TV - 21TDT - Lanzarote - CN Las Palmas
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0066
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Este Canal - 40TDT - Telde - CN Las Palmas
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVES0067
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",3/24 - 44TDT - Barcelona - CT Barcelona
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0073
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Canal 33 - 44TDT - Barcelona - CT Barcelona
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0074
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",TV3 - 44TDT - Barcelona - CT Barcelona
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0077
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",25 tv - 48TDT - Barcelona - CT Barcelona
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0078
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Canal 10 Empordà - 26TDT - Alt Empordà - CT Gerona
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0085
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Andorra TV - 55TDT - La Seu d'Urgell - CT Lérida
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0087
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Mola TV - 54TDT - Tarragona - CT Tarragona
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0088
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Canal Extremadura - 46TDT - Mérida - EX Badajoz
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0090
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Ferrol TV - 34TDT - Ferrol - GA La Coruña
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0091
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",TVG - 25TDT - S de Compostela - GA La Coruña
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0092
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Xabarin TV - 25TDT - S de Compostela - GA La Coruña
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0093
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Bondia TV - 26TDT - Palma deMallorca - IB Ils Baleares
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0095
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Canal 4 - 26TDT - Palma deMallorca - IB Ils Baleares
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0096
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",TV3cat - 26TDT - Palma deMallorca - IB Ils Baleares
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0097
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Popular TV Melilla - 43TDT - Melilla - ML Melilla
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0099
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",11 Hamaika Telebista - 42TDT - Vitoria-Gasteiz - PV Álava
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0102
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",28 Kanala - 24TDT - Tolosa - PV Guipúzcoa
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0104
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Goierri Telebista - 33TDT - Zumarraga - PV Guipúzcoa
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0105
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Urola Telebista - 33TDT - Zumarraga - PV Guipúzcoa
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0106
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",TeleBilbao - 23TDT - Bilbao - PV Vizcaya
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0108
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Intercomarcal TV - 21TDT - Alicante - VC Alicante
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0115
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ESESPANA.png" group-title="España",Tele Safor - 26TDT - Gandia - VC Valencia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIES0117
