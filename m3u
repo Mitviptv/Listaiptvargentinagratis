@@ -1228,7 +1228,7 @@ https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="DEPORTE", ACCDN 3
 https://120sports-accdn-2.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES", ES | EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTE", ES | EUROSPORT 1
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTE", ES | EUROSPORT 2
